@@ -1,0 +1,22 @@
+{
+    "name": "Robit",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robit": "github:tinkertanker/pxt-robit#dba1a45e6829828f0f73f9e9801e5de4f59577f5",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
